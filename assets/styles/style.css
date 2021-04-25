@@ -157,10 +157,10 @@ p{
   font-weight: 700;
   text-shadow: 3px 3px 5px #312a26;
 }
-.ads-text a:hover{
+/* .ads-text a:hover{
   color: #c7a17a;
   text-shadow: ;
-}
+} */
 
 /* merchandise area */
 
@@ -183,6 +183,9 @@ p{
 .section-header h2{
   color: #312a26;
   text-transform: uppercase;
+}
+.section-header h2:hover{
+  text-shadow: 4px 4px 6px #c7a17a;
 }
 .section-header hr{
   background-color: #c7a17a;
